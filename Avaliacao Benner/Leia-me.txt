@@ -1,0 +1,3 @@
+Avaliação feita até o nível 5, faltando desta forma o 6° nível.
+
+Utilizei thread.sleep para a passagem de tempo do aquecimento no microondas, por isso não consegui fazer a pausa e o cancelamento do aquecimento.

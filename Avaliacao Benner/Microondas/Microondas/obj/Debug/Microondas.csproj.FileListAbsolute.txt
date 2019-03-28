@@ -1,0 +1,11 @@
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\bin\Debug\Microondas.exe.config
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\bin\Debug\Microondas.exe
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\bin\Debug\Microondas.pdb
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.csprojResolveAssemblyReference.cache
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.Form1.resources
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.Cache
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.exe
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.pdb
+d:\Users\Cliente\Desktop\Avaliacao Benner\Microondas\Microondas\obj\Debug\Microondas.AddProgAquec.resources
